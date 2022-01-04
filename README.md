@@ -1,0 +1,1 @@
+This repository exemplifies a full Truffle Project with Unit testing for a Supply Chain Example through the "Ethereum Blockchain Developer Bootcamp With Solidity (2022)" Udemy course.
